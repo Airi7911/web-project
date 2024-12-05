@@ -1,0 +1,22 @@
+{
+  "name": "web-project",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Airi7911/web-project.git"
+  },
+  "keywords": [
+    "mmsrm7915"
+  ],
+  "author": "\"\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Airi7911/web-project/issues"
+  },
+  "homepage": "https://github.com/Airi7911/web-project#readme"
+}
